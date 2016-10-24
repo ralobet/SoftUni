@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+@model List<MVCBlog.Models.Post>
+
+
+@foreach(var post in Model)
+{
+
+<div class="row">
+    <div class="post col-md-6">
+        <h2>@post.Title</h2>
+        <div>
+            Posted on <i>@post.Date</i>
+            @if (post.Author != null)
+            {
+                @:by <i>@post.Author.FullName (@post.Author.UserName)</i>
+            }
+            
+            <p>@post.Body</p>
+        </div>
+    </div>
+</div>
+}
+<aside class="row">
+    <h3>Latest Entries</h3>
+    @foreach(var post in ViewBag.SidebarPosts)
+    {
+        <article class="post col-sm-3">
+            <h4 class="title">@post.Title</h4>
+            <div class="about">
+                Posted
+                @if(post.Author != null)
+                {
+                    @:by
+                    <i>@post.Author.FullName (@post.Author.UserName)</i>
+                }
+                on <i>@post.Date</i>
+            </div>
+            <div class="body">
+                @Html.Raw(post.Body)
+            </div>
+        </article>
+        <div class="col-sm-1">
+            @Html.RouteLink("Details", new { controller ="Posts", action="Details",id=post.Id})
+        </div>
+    }
+</aside>

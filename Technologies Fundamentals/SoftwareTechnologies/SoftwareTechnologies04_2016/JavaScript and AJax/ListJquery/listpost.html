@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button id="loadPosts">Load Posts from Kinvey</button>
+<script>
+    $('#loadPosts').click(function() {
+        let USERNAME = "guest", PASSWORD = "guest"
+        let authBase64 = btoa(USERNAME + ":" + PASSWORD)
+        $.ajax({
+            method: "GET",
+            url: "https://baas.kinvey.com/appdata/kid_SkE2itkI/posts",
+            headers: { "Authorization": "Basic " + authBase64 },
+            success: showPosts,
+            error: showError
+        });
+    });
+    function showPosts(data, status) {
+        let ul = $('<ul>')
+        for (let post of data) {
+            ul.append($('<li>').text(
+                    post.title + " -> " + post.body));
+        }
+        $('body').append(ul);
+    }
+    function showError(data, status) {
+        let errorMsg = "Error: " + JSON.stringify(data);
+        $('body').append($('<div>').text(errorMsg));
+    }
+</script>
+<script>
+    $('#loadPosts').click(function() {
+let USERNAME = "guest", PASSWORD = "guest"
+let authBase64 = btoa(USERNAME + ":" + PASSWORD)
+let postData = { title: $('#newPostTitle').val(),
+body: $('#newPostBody').val() }
+$.ajax({
+method: "POST",
+url: "https://baas.kinvey.com/appdata/kid_rkcLxcUr/posts",
+headers: { "Authorization": "Basic " + authBase64 },
+data: postData,
+success: showSuccess,
+error: showError
+});
+});</script>
+
+</body>
+</html>
