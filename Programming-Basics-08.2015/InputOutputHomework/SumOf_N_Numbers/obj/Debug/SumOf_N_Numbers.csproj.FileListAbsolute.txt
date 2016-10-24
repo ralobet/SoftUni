@@ -1,0 +1,1 @@
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOf_N_Numbers\bin\Debug\SumOf_N_Numbers.exe.config

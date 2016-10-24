@@ -1,0 +1,5 @@
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOf_N_Numbers\bin\Debug\SumOf_N_Numbers.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOf_N_Numbers\bin\Debug\SumOf_N_Numbers.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOf_N_Numbers\bin\Debug\SumOf_N_Numbers.pdb
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOf_N_Numbers\obj\Debug\SumOf_N_Numbers.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOf_N_Numbers\obj\Debug\SumOf_N_Numbers.pdb

@@ -1,0 +1,52 @@
+using System;
+
+namespace SumSeconds
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var player1 = int.Parse(Console.ReadLine());
+            var player2 = int.Parse(Console.ReadLine());
+            var player3 = int.Parse(Console.ReadLine());
+            var sumInSec = player1 + player2 + player3;
+
+            if (sumInSec <= 59)
+            {
+                if (sumInSec < 10)
+                {
+                    Console.WriteLine("0:0{0}", sumInSec);
+                }
+                else
+                {
+                    Console.WriteLine("0:{0}", sumInSec);
+                }
+            }
+
+            if (sumInSec >= 60 && sumInSec <= 119)
+            {
+                sumInSec -= 60;
+                if (sumInSec < 10)
+                {
+                    Console.WriteLine("1:0{0}", sumInSec);
+                }
+                else
+                {
+                    Console.WriteLine("1:{0}", sumInSec);
+                }
+            }
+            if (sumInSec >= 120 && sumInSec <= 179)
+            {
+                sumInSec -= 120;
+                if (sumInSec < 10)
+                {
+                    Console.WriteLine("2:0{0}", sumInSec);
+                }
+                else
+                {
+                    Console.WriteLine("2:{0}", sumInSec);
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,6 @@
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\DeclareVariables\bin\Debug\DeclareVariables.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\DeclareVariables\bin\Debug\DeclareVariables.pdb
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\DeclareVariables\obj\Debug\DeclareVariables.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\DeclareVariables\obj\Debug\DeclareVariables.pdb

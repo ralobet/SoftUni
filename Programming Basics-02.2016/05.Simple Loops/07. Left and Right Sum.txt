@@ -1,0 +1,33 @@
+using System;
+
+namespace LeftOrRightSUm
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var n = int.Parse(Console.ReadLine());
+            double leftSum = 0;
+            double rightSum = 0;
+            for (int i = 1; i <= n; i++)
+            {
+                var num = long.Parse(Console.ReadLine());
+                leftSum += num;
+            }
+            for (int i = 1; i <= n; i++)
+            {
+                var num = long.Parse(Console.ReadLine());
+                rightSum += num;
+            }
+            double difference = Math.Abs(leftSum - rightSum);
+            if (difference == 0)
+            {
+                Console.WriteLine("yes, sum = {0}", leftSum);
+            }
+            else
+            {
+                Console.WriteLine("no, diff = {0}", difference);
+            }
+        }
+    }
+}

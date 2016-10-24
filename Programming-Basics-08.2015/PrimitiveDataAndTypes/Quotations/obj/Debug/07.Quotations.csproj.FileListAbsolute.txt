@@ -1,0 +1,5 @@
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\Quotations\bin\Debug\Quotations.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\Quotations\bin\Debug\Quotations.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\Quotations\bin\Debug\Quotations.pdb
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\Quotations\obj\Debug\Quotations.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\Quotations\obj\Debug\Quotations.pdb

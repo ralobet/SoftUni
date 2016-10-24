@@ -1,0 +1,50 @@
+using System;
+
+namespace CurrencyConverter
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double number = double.Parse(Console.ReadLine());
+            string currency = Console.ReadLine();
+            string converted = Console.ReadLine();
+            if (currency == "USD")
+            {
+                switch (converted)
+                {
+                    case "BGN": Console.WriteLine("{0:F2} {1}", number * 1.79549, converted); break;
+                    case "EUR": Console.WriteLine("{0:F2} {1}", number / 1.08934, converted); break;
+                    case "GBP": Console.WriteLine("{0:F2} {1}", number / 0.71649, converted); break;
+                }
+            }
+            if (currency == "BGN")
+            {
+                switch (converted)
+                {
+                    case "USD": Console.WriteLine("{0:F2} {1}", number / 1.79549, converted); break;
+                    case "EUR": Console.WriteLine("{0:F2} {1}", number / 1.95583, converted); break;
+                    case "GBP": Console.WriteLine("{0:F2} {1}", number / 2.53405, converted); break;
+                }
+            }
+            if (currency == "EUR")
+            {
+                switch (converted)
+                {
+                    case "BGN": Console.WriteLine("{0:F2} {1}", number * 1.95583, converted); break;
+                    case "USD": Console.WriteLine("{0:F2} {1}", number * 1.08934, converted); break;
+                    case "GBP": Console.WriteLine("{0:F2} {1}", number / 1.29591, converted); break;
+                }
+            }
+            if (currency == "GBP")
+            {
+                switch (converted)
+                {
+                    case "BGN": Console.WriteLine("{0:F2} {1}", number * 2.53405, converted); break;
+                    case "EUR": Console.WriteLine("{0:F2} {1}", number * 1.29591, converted); break;
+                    case "USD": Console.WriteLine("{0:F2} {1}", number * 1.41134, converted); break;
+                }
+            }
+        }
+    }
+}

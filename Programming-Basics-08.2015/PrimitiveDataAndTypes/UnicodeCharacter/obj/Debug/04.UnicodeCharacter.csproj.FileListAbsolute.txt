@@ -1,0 +1,5 @@
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

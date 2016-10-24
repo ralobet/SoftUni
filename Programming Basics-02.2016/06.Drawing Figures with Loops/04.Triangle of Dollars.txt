@@ -1,0 +1,21 @@
+using System;
+
+namespace DollarsTriangle
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var n = int.Parse(Console.ReadLine());
+            for (var i = 0; i < n; i++)
+            {
+                Console.Write("$");
+                for (var b = 0; b < i; b++)
+                {
+                    Console.Write(" $");
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+}

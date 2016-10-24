@@ -1,0 +1,5 @@
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.pdb
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\PrintCompanyInfo\obj\Debug\PrintCompanyInfo.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\PrintCompanyInfo\obj\Debug\PrintCompanyInfo.pdb

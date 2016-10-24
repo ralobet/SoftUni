@@ -1,0 +1,62 @@
+1. Java
+Java is considered as the perfect language for the developers and programmers to learn. 
+Currently it is the top-most programming language and has grabbed the highest position with Android OS yet again, 
+though it was a bit down a few years ago. Java can be utilized for mobile-based applications, 
+enterprise level purpose, for creating desktop applications, and for establishing Android apps on tablets and smartphones.
+2. PHP
+The web developers should learn about PHP or Hypertext Preprocessor, a well-known programming language.
+ With the help of PHP, you can enlarge a web app very quickly and effortlessly. 
+PHP is the actual foundation of many strong content management systems, for example, WordPress. 
+PHP is really a valuable programming language for the developers and programmers.
+3. JavaScript
+While you are expanding your site, 
+JavaScript is extremely functional as this language can immensely assist you in generating communication for your website. 
+You can utilize various in style frameworks in JavaScript for constructing superb user interface. 
+When you’re into web development, it’s very important to known about JavaScript for making interactive web pages. 
+JavaScript is applied for including animations on the web pages, loading fresh images, scripts or objects on web page,
+ and craft hugely responsive user interfaces.
+
+4. Python
+
+For becoming skilled at all-in-one language, you should begin learning Python language
+ that has the ability to expand web apps, data analysis, user interfaces, and many more, 
+and frameworks are also available for these tasks. 
+Python is utilized by bigger companies mostly that can evaluate vast data sets, 
+thus this is a huge chance to learn it and be a Python programmer.
+
+5. Ruby
+
+Another popular programming language is Ruby and Ruby on Rails. 
+This can be learnt easily, and also very strong and clear-cut. If you’ve small time in hand and still
+ want to craft any project, then you can surely utilize Ruby 
+language. This programming language is applied massively 
+for web programming, and hence turned out to be the ideal selection for the beginner companies.
+
+6,7,8. C, C++ and C#
+
+You can increase your knowledge by learning about C this year that is unique programming language.
+ Being the oldest, it should be learnt firstly when you start up, 
+and it is mainly applied in forming different softwares.
+
+C++ or C plus plus is a bit more progressive than C, and utilized 
+immensely in forming hardware speeded games.
+ It is an ideal selection for strong desktop software as well as apps
+ for mobiles and desktop. Known to be the strongest language, 
+C++ is applied in vital operating systems, such as Windows.
+
+After learning these 2, you can go ahead in knowing about C# language. 
+It won’t be difficult for you to get accustomed with C# after 
+knowing C and C++. C# is actually the prime language 
+for Microsoft applications and services. While executing with .Net and ASP technologies,
+ you are required to be familiar with the C# accurately.
+9. SQL
+When you are executing on databases such as Microsoft SQL server, 
+Oracle, MySQL, etc, you should be aware of SQL programming language or Standard Query Language.
+ From this language, you can achieve the proficiency of acquiring the needed data from big and multifaceted databases.
+
+10. Swift
+Swift is reflected upon as the trendiest program language for expanding apps for Apple products. 
+This language can be utilized by you for building up apps for iOS activated devices and Apple’s MAC in quick and simple method. 
+When you are keen to expand a superb iOS application, then it is better for you to gain knowledge of Swift programming language.
+
+Hence, the above programming languages are known to be the best ones of 2015. So the developers and programmers should ensure that they’re updated regarding them. Knowing such programming languages will certainly take them to a greater level altogether in their career!

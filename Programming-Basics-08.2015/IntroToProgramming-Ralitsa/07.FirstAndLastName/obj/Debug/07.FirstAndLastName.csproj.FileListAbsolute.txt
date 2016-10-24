@@ -1,0 +1,11 @@
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\07.FirstAndLastName\bin\Debug\07.FirstAndLastName.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\07.FirstAndLastName\bin\Debug\07.FirstAndLastName.exe
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\07.FirstAndLastName\bin\Debug\07.FirstAndLastName.pdb
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\07.FirstAndLastName\obj\Debug\07.FirstAndLastName.exe
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\07.FirstAndLastName\obj\Debug\07.FirstAndLastName.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\07.FirstAndLastName\bin\Debug\07.FirstAndLastName.exe.config
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\07.FirstAndLastName\obj\Debug\07.FirstAndLastName.exe
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\07.FirstAndLastName\obj\Debug\07.FirstAndLastName.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\07.FirstAndLastName\bin\Debug\07.FirstAndLastName.exe
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\07.FirstAndLastName\bin\Debug\07.FirstAndLastName.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\07.FirstAndLastName\obj\Debug\07.FirstAndLastName.csprojResolveAssemblyReference.cache

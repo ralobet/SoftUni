@@ -1,0 +1,5 @@
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\QuadricExpression\bin\Debug\QuadricExpression.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\QuadricExpression\bin\Debug\QuadricExpression.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\QuadricExpression\bin\Debug\QuadricExpression.pdb
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\QuadricExpression\obj\Debug\QuadricExpression.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\QuadricExpression\obj\Debug\QuadricExpression.pdb

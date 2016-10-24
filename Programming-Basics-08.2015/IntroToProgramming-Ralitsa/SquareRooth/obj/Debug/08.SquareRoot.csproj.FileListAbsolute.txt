@@ -1,0 +1,11 @@
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\SquareRooth\bin\Debug\SquareRooth.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\SquareRooth\bin\Debug\SquareRooth.exe
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\SquareRooth\bin\Debug\SquareRooth.pdb
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\SquareRooth\obj\Debug\SquareRooth.exe
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\SquareRooth\obj\Debug\SquareRooth.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\SquareRooth\bin\Debug\SquareRooth.exe.config
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\SquareRooth\bin\Debug\SquareRooth.exe
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\SquareRooth\bin\Debug\SquareRooth.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\SquareRooth\obj\Debug\08.SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\SquareRooth\obj\Debug\SquareRooth.exe
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\SquareRooth\obj\Debug\SquareRooth.pdb

@@ -1,0 +1,33 @@
+using System;
+
+namespace SquareFrame
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var n = int.Parse(Console.ReadLine());
+            Console.Write("+");
+            for (var i = 0; i < n-2; i++)
+            {
+              Console.Write(" -");  
+            }
+            Console.WriteLine(" +");
+            for (var b = 0; b < n-2; b++)
+            {
+                Console.Write("|");
+                for (var z = 0; z < n - 2; z++)
+                {
+                    Console.Write(" -");
+                }
+                Console.WriteLine(" |");
+            }
+            Console.Write("+");
+            for (var m = 0; m < n - 2; m++)
+            {
+                Console.Write(" -");
+            }
+            Console.WriteLine(" +");
+        }
+    }
+}

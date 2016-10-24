@@ -1,0 +1,6 @@
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FibonacciSequence\bin\Debug\FibonacciSequence.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FibonacciSequence\bin\Debug\FibonacciSequence.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FibonacciSequence\bin\Debug\FibonacciSequence.pdb
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FibonacciSequence\obj\Debug\FibonacciSequence.csprojResolveAssemblyReference.cache
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FibonacciSequence\obj\Debug\FibonacciSequence.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FibonacciSequence\obj\Debug\FibonacciSequence.pdb

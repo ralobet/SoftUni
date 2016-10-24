@@ -1,0 +1,6 @@
+C:\Users\Rally\Documents\GitHub\SoftUniHOmeworks\Solution7\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\Rally\Documents\GitHub\SoftUniHOmeworks\Solution7\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\Rally\Documents\GitHub\SoftUniHOmeworks\Solution7\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\Rally\Documents\GitHub\SoftUniHOmeworks\PrimitiveDataAndTypes\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\Rally\Documents\GitHub\SoftUniHOmeworks\PrimitiveDataAndTypes\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\Rally\Documents\GitHub\SoftUniHOmeworks\PrimitiveDataAndTypes\DeclareVariables\obj\Debug\DeclareVariables.pdb

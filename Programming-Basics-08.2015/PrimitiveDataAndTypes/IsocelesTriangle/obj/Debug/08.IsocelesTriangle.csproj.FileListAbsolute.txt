@@ -1,0 +1,5 @@
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\IsocelesTriangle\bin\Debug\IsocelesTriangle.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\IsocelesTriangle\bin\Debug\IsocelesTriangle.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\IsocelesTriangle\bin\Debug\IsocelesTriangle.pdb
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\IsocelesTriangle\obj\Debug\IsocelesTriangle.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\IsocelesTriangle\obj\Debug\IsocelesTriangle.pdb

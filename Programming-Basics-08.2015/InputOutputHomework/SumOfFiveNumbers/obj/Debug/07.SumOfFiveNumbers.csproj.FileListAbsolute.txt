@@ -1,0 +1,5 @@
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.pdb
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.pdb

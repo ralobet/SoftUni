@@ -1,0 +1,6 @@
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\ConsoleApplication1\obj\Debug\01.HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

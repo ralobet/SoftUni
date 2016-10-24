@@ -1,0 +1,11 @@
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintNumbers\obj\Debug\PrintNumbers.exe
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintNumbers\obj\Debug\06.PrintNumbers.csprojResolveAssemblyReference.cache

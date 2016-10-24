@@ -1,0 +1,6 @@
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FormatNumber\bin\Debug\FormatNumber.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FormatNumber\bin\Debug\FormatNumber.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FormatNumber\bin\Debug\FormatNumber.pdb
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FormatNumber\obj\Debug\05.FormatNumber.csprojResolveAssemblyReference.cache
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FormatNumber\obj\Debug\FormatNumber.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FormatNumber\obj\Debug\FormatNumber.pdb

@@ -1,0 +1,46 @@
+using System;
+
+namespace FruitShop
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var fruit = Console.ReadLine().ToLower();
+            var day = Console.ReadLine().ToLower();
+            var quantity = double.Parse(Console.ReadLine());
+            if (day == "monday" || day == "tuesday" || day == "wednesday" || day == "thursday" || day == "friday")
+            {
+                switch (fruit)
+                {
+                    case "banana": Console.WriteLine("{0:F2}",2.50 * quantity); break;
+                    case "apple": Console.WriteLine("{0:F2}", 1.20 * quantity); break;
+                    case "orange": Console.WriteLine("{0:F2}", 0.85 * quantity); break;
+                    case "grapefruit": Console.WriteLine("{0:F2}", 1.45 * quantity); break;
+                    case "kiwi": Console.WriteLine("{0:F2}", 2.70 * quantity); break;
+                    case "pineapple": Console.WriteLine("{0:F2}", 5.50 * quantity); break;
+                    case "grapes": Console.WriteLine("{0:F2}", 3.85 * quantity); break;
+                    default: Console.WriteLine("error"); break;
+                }
+            }
+            else if (day == "saturday" || day == "sunday")
+            {
+                switch (fruit)
+                {
+                    case "banana": Console.WriteLine("{0:F2}", 2.70 * quantity); break;
+                    case "apple": Console.WriteLine("{0:F2}", 1.25 * quantity); break;
+                    case "orange": Console.WriteLine("{0:F2}", 0.90 * quantity); break;
+                    case "grapefruit": Console.WriteLine("{0:F2}", 1.60 * quantity); break;
+                    case "kiwi": Console.WriteLine("{0:F2}", 3.00 * quantity); break;
+                    case "pineapple": Console.WriteLine("{0:F2}", 5.60 * quantity); break;
+                    case "grapes": Console.WriteLine("{0:F2}", 4.20 * quantity); break;
+                    default: Console.WriteLine("error"); break;
+                }
+           }
+            else
+            {
+                Console.WriteLine("error");
+            }
+        }
+    }
+}

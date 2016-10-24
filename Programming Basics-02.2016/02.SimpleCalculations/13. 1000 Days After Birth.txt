@@ -1,0 +1,20 @@
+using System;
+using System.Globalization;
+
+namespace _1000Days
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            CultureInfo bgBG= new CultureInfo("bg-BG");
+            string dateString = Console.ReadLine();
+
+            DateTime today = DateTime.ParseExact(dateString, "dd-MM-yyyy", bgBG);
+            DateTime answer = today.AddDays(999);
+            Console.WriteLine("{0:dd-MM-yyyy}", answer);
+   
+         
+        }
+    }
+}

@@ -1,0 +1,5 @@
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\NumbersDevisibleByNumber\bin\Debug\NumbersDevisibleByNumber.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\NumbersDevisibleByNumber\bin\Debug\NumbersDevisibleByNumber.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\NumbersDevisibleByNumber\bin\Debug\NumbersDevisibleByNumber.pdb
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\NumbersDevisibleByNumber\obj\Debug\NumbersDevisibleByNumber.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\NumbersDevisibleByNumber\obj\Debug\NumbersDevisibleByNumber.pdb

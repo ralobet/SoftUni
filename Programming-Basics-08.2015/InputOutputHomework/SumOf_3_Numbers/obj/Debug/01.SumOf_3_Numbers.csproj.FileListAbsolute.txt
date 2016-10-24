@@ -1,0 +1,6 @@
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOf_3_Numbers\bin\Debug\SumOf_3_Numbers.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOf_3_Numbers\bin\Debug\SumOf_3_Numbers.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOf_3_Numbers\bin\Debug\SumOf_3_Numbers.pdb
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOf_3_Numbers\obj\Debug\01.SumOf_3_Numbers.csprojResolveAssemblyReference.cache
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOf_3_Numbers\obj\Debug\SumOf_3_Numbers.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\SumOf_3_Numbers\obj\Debug\SumOf_3_Numbers.pdb

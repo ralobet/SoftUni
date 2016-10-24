@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RhombusOFStars
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var n = int.Parse(Console.ReadLine());
+            for (var row = 1; row <= n; row++)
+            {
+                for (var col = 1; col <= n - row; col++)
+                    Console.Write(" ");
+                Console.Write("*");
+                for (var col = 1; col < row; col++)
+                    Console.Write(" *");
+                Console.WriteLine();
+            }
+            for (int i = 0; i <= n-1; i++)
+            {
+                
+                for (int b = i; b <= n-2; b++)
+                {
+                    Console.Write(" *");
+                   
+                }
+                Console.WriteLine();
+
+                for (int r = 1; r <= i+1;r++ ) 
+                    Console.Write(" ");
+            }
+            Console.WriteLine();
+        }
+    }
+}

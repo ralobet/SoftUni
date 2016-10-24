@@ -1,0 +1,17 @@
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintSequence\bin\Debug\PrintSequence.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintSequence\bin\Debug\PrintSequence.exe
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintSequence\bin\Debug\PrintSequence.pdb
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintSequence\obj\Debug\PrintSequence.exe
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming - Copy\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming - Copy\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming - Copy\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming - Copy\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming - Copy\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming - Copy\PrintSequence\obj\Debug\09.PrintSequence.csprojResolveAssemblyReference.cache
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintSequence\obj\Debug\09.PrintSequence.csprojResolveAssemblyReference.cache
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintSequence\obj\Debug\PrintSequence.pdb

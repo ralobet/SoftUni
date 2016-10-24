@@ -1,0 +1,5 @@
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\BankData\bin\Debug\BankData.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\BankData\bin\Debug\BankData.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\BankData\bin\Debug\BankData.pdb
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\BankData\obj\Debug\BankData.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\BankData\obj\Debug\BankData.pdb

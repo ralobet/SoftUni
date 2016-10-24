@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace VolleyBall
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var typeOfYear = Console.ReadLine().ToLower();
+            double p = double.Parse(Console.ReadLine()); //vakancii
+            double h = double.Parse(Console.ReadLine()); // roden grad
+            double weekends = 48;
+            double inSofia = (weekends - h)*3/4;
+            double birthCity = h;
+            double vacations = p * 2 / 3;
+            double totalGames = inSofia + birthCity + vacations;
+            
+            if (typeOfYear == "normal")
+            {
+                Console.WriteLine("{0}", Math.Floor(totalGames));
+            }
+            else if (typeOfYear == "leap")
+            {
+                totalGames = 0.15*totalGames+totalGames;          
+                Console.WriteLine("{0}", Math.Floor(totalGames));
+            }
+        }
+    }
+}

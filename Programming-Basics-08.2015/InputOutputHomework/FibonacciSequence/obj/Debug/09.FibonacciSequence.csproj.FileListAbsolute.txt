@@ -1,0 +1,3 @@
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FibonacciSequence\bin\Debug\FibonacciSequence.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FibonacciSequence\obj\Debug\FibonacciSequence.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\FibonacciSequence\obj\Debug\FibonacciSequence.pdb

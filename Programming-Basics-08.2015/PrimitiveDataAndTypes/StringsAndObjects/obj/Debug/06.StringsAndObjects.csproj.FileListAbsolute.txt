@@ -1,0 +1,5 @@
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

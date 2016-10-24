@@ -1,0 +1,3 @@
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb

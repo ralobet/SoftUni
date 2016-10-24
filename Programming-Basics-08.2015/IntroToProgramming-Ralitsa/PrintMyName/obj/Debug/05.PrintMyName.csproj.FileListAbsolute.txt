@@ -1,0 +1,10 @@
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintMyName\bin\Debug\PrintMyName.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintMyName\bin\Debug\PrintMyName.exe
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintMyName\bin\Debug\PrintMyName.pdb
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintMyName\obj\Debug\PrintMyName.exe
+c:\users\rally\documents\visual studio 2013\Projects\IntroToProgramming\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Rally\Desktop\C#\c#Homework\IntroToProgramming-Ralitsa\PrintMyName\bin\Debug\PrintMyName.pdb

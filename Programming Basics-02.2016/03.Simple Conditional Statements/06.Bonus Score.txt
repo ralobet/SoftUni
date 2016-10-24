@@ -1,0 +1,39 @@
+using System;
+
+namespace BonusPoints
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var points = double.Parse(Console.ReadLine());
+            double bonusPoints = 0;
+            double even = 0;
+            double end = 0;
+            if (points <= 100)
+            {
+                bonusPoints = 5;
+            }
+            else if (points > 100 && points <= 1000)
+            {
+                bonusPoints = 0.20 * points;
+            }
+            else if (points > 1000)
+            {
+                bonusPoints = 0.10 * points;
+            }
+            if (points % 2 == 0)
+            {
+                even = 1;
+                bonusPoints += even;
+            }
+            if (points % 10 == 5)
+            {
+                end = 2;
+                bonusPoints += end;
+            }
+            Console.WriteLine(bonusPoints);
+            Console.WriteLine(bonusPoints+points);
+        }
+    }
+}

@@ -1,0 +1,8 @@
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+C:\Users\Rally\Documents\GitHub\SoftUniHOmeworks\PrimitiveDataAndTypes\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\Rally\Documents\GitHub\SoftUniHOmeworks\PrimitiveDataAndTypes\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\Rally\Documents\GitHub\SoftUniHOmeworks\PrimitiveDataAndTypes\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

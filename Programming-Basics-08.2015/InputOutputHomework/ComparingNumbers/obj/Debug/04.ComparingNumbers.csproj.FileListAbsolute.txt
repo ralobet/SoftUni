@@ -1,0 +1,6 @@
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\ComparingNumbers\bin\Debug\ComparingNumbers.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\ComparingNumbers\bin\Debug\ComparingNumbers.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\ComparingNumbers\bin\Debug\ComparingNumbers.pdb
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\ComparingNumbers\obj\Debug\04.ComparingNumbers.csprojResolveAssemblyReference.cache
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\ComparingNumbers\obj\Debug\ComparingNumbers.exe
+c:\users\rally\documents\visual studio 2013\Projects\InputOutputHomework\ComparingNumbers\obj\Debug\ComparingNumbers.pdb

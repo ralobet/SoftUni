@@ -1,0 +1,5 @@
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\Boolean\bin\Debug\Boolean.exe.config
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\Boolean\bin\Debug\Boolean.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\Boolean\bin\Debug\Boolean.pdb
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\Boolean\obj\Debug\Boolean.exe
+c:\users\rally\documents\visual studio 2013\Projects\Solution7\Boolean\obj\Debug\Boolean.pdb
